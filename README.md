@@ -1,7 +1,11 @@
 # AWS Data Engineering
 
 ## Introduction
-This repository is an educational example of how to use AWSS3 for staging/storage and creatinga Redshift cluster on AWS. From here, a STAR schema is designed by using an ETL process from S3 to mimick a real data pipleine.
+This repository is an educational example of how to use AWS S3 for staging/storage and creatinga Redshift cluster on AWS. From here, a STAR schema is designed by using an ETL process from S3 to mimick a real data pipleine.
+
+All examples below use the Pagilla Schema to model the STAR schema using an ETL process.
+
+<img src="DWH Architecture Educational Lessons/Schema Design-ETL-OLAP/images/pagila-star.png" width="50%"/>
 
 [Star Schema example](https://github.com/jkenney0501/AWS_Data_Engineering/blob/main/DWH%20Architecture%20Educational%20Lessons/Schema%20Design-ETL-OLAP/1.%203NF_to_Star_Schema_ETL.ipynb)
 
