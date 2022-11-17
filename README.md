@@ -13,6 +13,6 @@ This repository is an educational example of how to use AWSS3 for staging/storag
 
 [Parallel ETL - Load Data to Cluster](https://github.com/jkenney0501/AWS_Data_Engineering/blob/main/DWH%20Architecture%20Educational%20Lessons/Schema%20Design-ETL-OLAP/5.%20Parallel%20ETL%20Load%20data%20to%20Cluster.ipynb)
 
-[Tablea Design and Optimization](https://github.com/jkenney0501/AWS_Data_Engineering/blob/main/DWH%20Architecture%20Educational%20Lessons/Schema%20Design-ETL-OLAP/6.%20Table%20Design%20and%20Optimization.ipynb)
+[Table Design and Optimization](https://github.com/jkenney0501/AWS_Data_Engineering/blob/main/DWH%20Architecture%20Educational%20Lessons/Schema%20Design-ETL-OLAP/6.%20Table%20Design%20and%20Optimization.ipynb)
 
 * All projects were sourced and completed under Udacity Dats Engineering Nanodegree
